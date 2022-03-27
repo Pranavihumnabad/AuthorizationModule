@@ -70,7 +70,6 @@ C:\Users\2085700\source\repos\AuthorizationModule\bin\Debug\net5.0\Swashbuckle.A
 C:\Users\2085700\source\repos\AuthorizationModule\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\2085700\source\repos\AuthorizationModule\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\2085700\source\repos\AuthorizationModule\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\2085700\source\repos\AuthorizationModule\obj\Debug\net5.0\AuthorizationModule.csproj.AssemblyReference.cache
 C:\Users\2085700\source\repos\AuthorizationModule\obj\Debug\net5.0\AuthorizationModule.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\2085700\source\repos\AuthorizationModule\obj\Debug\net5.0\AuthorizationModule.AssemblyInfoInputs.cache
 C:\Users\2085700\source\repos\AuthorizationModule\obj\Debug\net5.0\AuthorizationModule.AssemblyInfo.cs
